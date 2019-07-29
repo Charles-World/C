@@ -1,0 +1,5 @@
+﻿  test_9_212.c
+d:\c\test_9_212\test_9_212\test_9_212.c(9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\c\test_9_212\test_9_212\test_9_212.c(13): warning C4013: “system”未定义；假设外部返回 int
+d:\c\test_9_212\test_9_212\test_9_212.c(6): warning C4101: “j”: 未引用的局部变量
+  test_9_212.vcxproj -> D:\C\test_9_212\Debug\test_9_212.exe
