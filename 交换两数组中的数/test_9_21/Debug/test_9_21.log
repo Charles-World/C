@@ -1,0 +1,5 @@
+﻿  test_9_21.c
+c:\users\maibenben\source\repos\test_9_21\test_9_21\test_9_21.c(34): warning C4013: “system”未定义；假设外部返回 int
+c:\users\maibenben\source\repos\test_9_21\test_9_21\test_9_21.c(5): warning C4101: “j”: 未引用的局部变量
+c:\users\maibenben\source\repos\test_9_21\test_9_21\test_9_21.c(5): warning C4101: “t”: 未引用的局部变量
+  test_9_21.vcxproj -> C:\Users\MAIBENBEN\source\repos\test_9_21\Debug\test_9_21.exe
