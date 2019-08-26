@@ -1,0 +1,3 @@
+﻿  test_10_231.c
+e:\40\test_10_231\test_10_231\test_10_231.c(27): warning C4013: “system”未定义；假设外部返回 int
+  test_10_231.vcxproj -> E:\40\test_10_231\Debug\test_10_231.exe

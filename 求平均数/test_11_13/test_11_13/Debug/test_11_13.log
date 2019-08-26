@@ -1,0 +1,4 @@
+﻿  info.c
+e:\40\test_11_13\test_11_13\info.c(290): warning C4047: “函数”:“int”与“void *”的间接级别不同
+e:\40\test_11_13\test_11_13\info.c(290): warning C4024: “memset”: 形参和实参 2 的类型不同
+  test_11_13.vcxproj -> E:\40\test_11_13\Debug\test_11_13.exe
