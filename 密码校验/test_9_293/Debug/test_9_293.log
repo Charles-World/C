@@ -1,0 +1,3 @@
+﻿  test_9_293.c
+c:\users\maibenben\source\repos\test_9_293\test_9_293\test_9_293.c(28): warning C4013: “system”未定义；假设外部返回 int
+  test_9_293.vcxproj -> C:\Users\MAIBENBEN\source\repos\test_9_293\Debug\test_9_293.exe
