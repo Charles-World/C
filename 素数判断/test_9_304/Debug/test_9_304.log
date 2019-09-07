@@ -1,0 +1,4 @@
+﻿  test_99_304.c
+e:\40\test_9_304\test_9_304\test_99_304.c(32): warning C4013: “system”未定义；假设外部返回 int
+e:\40\test_9_304\test_9_304\test_99_304.c(18): warning C4715: “prime”: 不是所有的控件路径都返回值
+  test_9_304.vcxproj -> E:\40\test_9_304\Debug\test_9_304.exe
