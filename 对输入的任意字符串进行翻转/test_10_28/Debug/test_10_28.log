@@ -1,0 +1,4 @@
+﻿  test_10_28.c
+e:\40\test_10_28\test_10_28\test_10_28.c(150): warning C4013: “gets”未定义；假设外部返回 int
+e:\40\test_10_28\test_10_28\test_10_28.c(154): warning C4013: “system”未定义；假设外部返回 int
+  test_10_28.vcxproj -> E:\40\test_10_28\Debug\test_10_28.exe
