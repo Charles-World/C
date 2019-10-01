@@ -1,0 +1,5 @@
+﻿  test_11_8.c
+e:\40\test_11_8\test_11_8\test_11_8.c(177): warning C4133: “<=”: 从“const char *”到“void *”的类型不兼容
+e:\40\test_11_8\test_11_8\test_11_8.c(219): warning C4013: “system”未定义；假设外部返回 int
+e:\40\test_11_8\test_11_8\test_11_8.c(217): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“void *”
+  test_11_8.vcxproj -> E:\40\test_11_8\Debug\test_11_8.exe
