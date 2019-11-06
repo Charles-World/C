@@ -1,0 +1,6 @@
+﻿  ablity.c
+  通讯录.c
+d:\cl2\通讯录\通讯录\通讯录.c(288): warning C4047: “函数”:“int”与“void *”的间接级别不同
+d:\cl2\通讯录\通讯录\通讯录.c(288): warning C4024: “memset”: 形参和实参 2 的类型不同
+  正在生成代码...
+  通讯录.vcxproj -> D:\CL2\通讯录\Debug\通讯录.exe
