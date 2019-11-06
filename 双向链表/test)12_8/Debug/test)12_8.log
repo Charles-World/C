@@ -1,0 +1,6 @@
+﻿  test_12_8.c
+e:\40\test)12_8\test)12_8\test_12_8.c(20): warning C4013: “malloc”未定义；假设外部返回 int
+e:\40\test)12_8\test)12_8\test_12_8.c(66): warning C4013: “free”未定义；假设外部返回 int
+e:\40\test)12_8\test)12_8\test_12_8.c(160): warning C4013: “system”未定义；假设外部返回 int
+e:\40\test)12_8\test)12_8\test_12_8.c(141): warning C4101: “pos”: 未引用的局部变量
+  test)12_8.vcxproj -> E:\40\test)12_8\Debug\test)12_8.exe
